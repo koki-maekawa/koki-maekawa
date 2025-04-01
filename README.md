@@ -13,8 +13,8 @@
   </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koki-maekawa&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koki-maekawa&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=koki-maekawa&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=koki-maekawa&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=koki-maekawa&theme=gruvbox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koki-maekawa&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koki-maekawa&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=koki-maekawa&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=koki-maekawa&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=koki-maekawa&theme=solarized&utcOffset=9)
