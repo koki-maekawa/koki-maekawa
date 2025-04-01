@@ -1,3 +1,4 @@
+<img align="center" width="500" src="./images/hello_world.png" alt="hello-world" />
 <p align="center">
   <a href="https://github.com/koki-maekawa">
     <img height="20" src="https://komarev.com/ghpvc/?username=koki-maekawa&color=blueviolet" />
