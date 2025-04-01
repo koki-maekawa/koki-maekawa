@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**koki-maekawa/koki-maekawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stats
+<p align="left">
+  <a href="https://github.com/koki-maekawa">
+    <img height="20" src="https://komarev.com/ghpvc/?username=koki-maekawa&color=blueviolet" />
+  </a>
+  <a href="https://zenn.dev/koki33">
+    <img height="20" src="https://badgen.org/img/zenn/koki33/articles?style=plastic" alt="Articles" />
+  </a>
+  <a href="https://zenn.dev/koki33?tab=scraps">
+    <img height="20" src="https://badgen.org/img/zenn/koki33/scraps?style=plastic" alt="Scraps" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koki-maekawa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koki-maekawa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=koki-maekawa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=koki-maekawa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=koki-maekawa&theme=gruvbox&utcOffset=9)
